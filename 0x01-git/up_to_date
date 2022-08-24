@@ -1,0 +1,4 @@
+
+echo >> up_to_date
+get pull
+git pull
